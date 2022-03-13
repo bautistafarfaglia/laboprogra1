@@ -1,11 +1,11 @@
 barcelona 5
 paris 5
 bruselas 2
-brujas 2
+brujas 33333333
 amsterdam 3
 munich 2
 venecia 2
-florence 3
+florence 44444444
 roma 4
 napoles 2
 
@@ -15,6 +15,6 @@ Francia (Paris, catacumbas,)
 Italia (Roma, Venecia, Florencia, Pleiterforkel)
 Grecia (Atenas, )
 Turquia (Estambul, )
-Chipre (Budi)
+Chipre (Budiqqqqqqqqqqqqq)
 
 Pleiterforkel
